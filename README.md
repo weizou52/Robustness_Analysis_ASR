@@ -4,6 +4,8 @@ Access it at https://arxiv.org/abs/2208.08509
 
 Slides for our work is available at ```presentation/presentation.pptx```
 
+If you have comments or suggestions, please reach out to weizou@uchicago.edu or goutham@uchicago.edu.
+
 # Notebooks/files to reproduce the experiments:
 
 ## Experiment E1 - Noisy waveform input
@@ -17,5 +19,3 @@ Slides for our work is available at ```presentation/presentation.pptx```
 
 ## Experiment E2B - Layer activation visualization
 - ```visualization_expts.ipynb```
-
-If you have comments or suggestions, please reach out to weizou@uchicago.edu.

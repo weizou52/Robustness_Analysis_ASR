@@ -1,6 +1,8 @@
-This is the repository containing the code for the preprint "Analyzing robustness of end-to-end neural models for automatic speech recognition". Access our paper at https://arxiv.org/abs/2208.08509.
+This is the repository containing the code for the preprint **Analyzing robustness of end-to-end neural models for automatic speech recognition**.
 
-Slides for our work is available at presentation/presentation.pptx
+Access our paper at https://arxiv.org/abs/2208.08509
+
+Slides for our work is available at ```presentation/presentation.pptx```
 
 # Notebooks/files to reproduce the experiments:
 

@@ -1,6 +1,6 @@
-This is the repository containing the code for the preprint **Analyzing robustness of end-to-end neural models for automatic speech recognition**.
+This is the repository containing the code for the paper **Analyzing robustness of end-to-end neural models for automatic speech recognition**.
 
-Access our paper at https://arxiv.org/abs/2208.08509
+Access it at https://arxiv.org/abs/2208.08509
 
 Slides for our work is available at ```presentation/presentation.pptx```
 
@@ -17,3 +17,5 @@ Slides for our work is available at ```presentation/presentation.pptx```
 
 ## Experiment E2B - Layer activation visualization
 - ```visualization_expts.ipynb```
+
+If you have comments or suggestions, please reach out to weizou@uchicago.edu.
